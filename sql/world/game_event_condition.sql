@@ -1,0 +1,15 @@
+INSERT INTO `game_event_condition` VALUES (33, 1, 100, 0, 3244, '');
+INSERT INTO `game_event_condition` VALUES (34, 1, 1, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (35, 1, 100, 0, 3233, '');
+INSERT INTO `game_event_condition` VALUES (36, 1, 1, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (37, 1, 100, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (38, 1, 1, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (39, 1, 100, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (40, 1, 1, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (41, 1, 100, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (42, 1, 1, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (43, 1, 100, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (44, 1, 1, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (45, 1, 1000000, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (46, 1, 1, 0, 0, '');
+INSERT INTO `game_event_condition` VALUES (47, 1, 1, 0, 0, '');

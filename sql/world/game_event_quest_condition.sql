@@ -1,0 +1,11 @@
+INSERT INTO `game_event_quest_condition` VALUES (33, 11524, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (33, 11496, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (35, 11538, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (35, 11532, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (37, 11513, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (39, 11542, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (39, 11539, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (41, 11535, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (43, 11520, 1, 100);
+INSERT INTO `game_event_quest_condition` VALUES (45, 11545, 1, 10);
+INSERT INTO `game_event_quest_condition` VALUES (45, 11549, 1, 1000);

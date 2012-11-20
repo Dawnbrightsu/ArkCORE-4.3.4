@@ -1,0 +1,15 @@
+INSERT INTO `game_event_prerequisite` VALUES (34, 35);
+INSERT INTO `game_event_prerequisite` VALUES (35, 35);
+INSERT INTO `game_event_prerequisite` VALUES (36, 37);
+INSERT INTO `game_event_prerequisite` VALUES (37, 35);
+INSERT INTO `game_event_prerequisite` VALUES (38, 39);
+INSERT INTO `game_event_prerequisite` VALUES (39, 37);
+INSERT INTO `game_event_prerequisite` VALUES (40, 41);
+INSERT INTO `game_event_prerequisite` VALUES (41, 37);
+INSERT INTO `game_event_prerequisite` VALUES (42, 43);
+INSERT INTO `game_event_prerequisite` VALUES (43, 41);
+INSERT INTO `game_event_prerequisite` VALUES (44, 45);
+INSERT INTO `game_event_prerequisite` VALUES (45, 41);
+INSERT INTO `game_event_prerequisite` VALUES (46, 47);
+INSERT INTO `game_event_prerequisite` VALUES (47, 45);
+INSERT INTO `game_event_prerequisite` VALUES (47, 47);

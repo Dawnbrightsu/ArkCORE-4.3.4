@@ -1,0 +1,11 @@
+INSERT INTO `player_factionchange_items` VALUES (0, 47003, 'Dawnbreaker Greaves', 0, 47430, 'Dawnbreaker Sabatons');
+INSERT INTO `player_factionchange_items` VALUES (0, 47626, 'Plans: Sunforged Breastplate', 0, 47643, 'Plans: Sunforged Breastplate');
+INSERT INTO `player_factionchange_items` VALUES (0, 44503, 'Schematic: Mekgineers Chopper', 0, 44502, 'Schematic: Mechano-Hog');
+INSERT INTO `player_factionchange_items` VALUES (0, 47654, 'Pattern: Bejeweled Wizards Bracers', 0, 47639, 'Pattern: Bejeweled Wizards Bracers');
+INSERT INTO `player_factionchange_items` VALUES (0, 48076, 'Velen\'s Mantle of Conquest', 0, 48101, 'Zabra\'s Mantle of Conquest');
+INSERT INTO `player_factionchange_items` VALUES (0, 48075, 'Velen\'s Raiments of Conquest', 0, 48100, 'Zabra\'s Raiments of Conquest');
+INSERT INTO `player_factionchange_items` VALUES (0, 48074, 'Velen\'s Pants of Conquest', 0, 48099, 'Zabra\'s Pants of Conquest');
+INSERT INTO `player_factionchange_items` VALUES (0, 48072, 'Velen\'s Handwraps of Conquest', 0, 48097, 'Zabra\'s Handwraps of Conquest');
+INSERT INTO `player_factionchange_items` VALUES (0, 48073, 'Velen\'s Circlet of Conquest', 0, 48098, 'Zabra\'s Circlet of Conquest');
+INSERT INTO `player_factionchange_items` VALUES (0, 47711, 'Girdle of the Nether Champion', 0, 47870, 'Belt of the Nether Championt');
+INSERT INTO `player_factionchange_items` VALUES (0, 44235, 'Reins of the Traveler\'s Tundra Mammoth', 0, 44234, 'Reins of the Traveler\'s Tundra Mammoth');

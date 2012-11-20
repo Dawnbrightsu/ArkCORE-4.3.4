@@ -1,0 +1,11 @@
+INSERT INTO `phase_definitions` VALUES (1519, 1, 129, 0, 0, 0, 'Stormwind: [A] Heros Call: Vashj\'ir');
+INSERT INTO `phase_definitions` VALUES (1519, 2, 257, 0, 0, 0, 'Stormwind: [A] Heros Call: Hyjal');
+INSERT INTO `phase_definitions` VALUES (1519, 3, 513, 0, 0, 0, 'Stormwind: [A] Heros Call: Deepholm');
+INSERT INTO `phase_definitions` VALUES (1519, 4, 1025, 0, 0, 0, 'Stormwind: [A] Heros Call: Uldum');
+INSERT INTO `phase_definitions` VALUES (1519, 5, 2049, 0, 0, 0, 'Stormwind: [A] Heros Call: Twilight Highlands');
+INSERT INTO `phase_definitions` VALUES (1637, 1, 129, 0, 0, 0, 'Orgrimmar: [H] Warchiefs Command: Vashj\'ir');
+INSERT INTO `phase_definitions` VALUES (1637, 2, 257, 0, 0, 0, 'Orgrimmar: [H] Warchiefs Command: Hyjal');
+INSERT INTO `phase_definitions` VALUES (1637, 3, 513, 0, 0, 0, 'Orgrimmar: [H] Warchiefs Command: Deepholm');
+INSERT INTO `phase_definitions` VALUES (1637, 4, 1025, 0, 0, 0, 'Orgrimmar: [H] Warchiefs Command: Uldum');
+INSERT INTO `phase_definitions` VALUES (1637, 5, 2049, 0, 0, 0, 'Orgrimmar: [H] Warchiefs Command: Twilight Highlands');
+INSERT INTO `phase_definitions` VALUES (616, 1, 0, 165, 719, 0, 'Mount Hyjal: Default Terrainswap');
